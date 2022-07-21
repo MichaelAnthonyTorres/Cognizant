@@ -1,0 +1,35 @@
+*{
+    margin: 0 auto;
+}
+
+.container{
+    width: 300px;
+    height: 640px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px lightgrey;
+}
+
+.info{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+    margin: 5px 0px 5px 0px;
+    padding: 0px;
+}
